@@ -22,7 +22,7 @@
 Em constante aprendizado !! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-guilhermexavr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermexavr/)
-### :hammer_and_wrench: Linguagens & Ferramentas :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Dart" width="40" height="40"/>&nbsp;
@@ -34,4 +34,4 @@ Em constante aprendizado !! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guixavr&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guixavr&layout=compact&theme=vision-friendly-dark)](https://github.com/guixavr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guixavr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
